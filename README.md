@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahibzada Abdullah</h1>
 <h3 align="center">A passionate computer science engineer from Pakistan.</h3>
 
-<img align="right" width=400 alt="coding" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
+<img align="center" width=400 alt="coding" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahibzada88&label=Profile%20views&color=0e75b6&style=flat" alt="sahibzada88" /> </p>
 
