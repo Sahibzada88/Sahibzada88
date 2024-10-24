@@ -1,3 +1,4 @@
+![logo](https://github.com/Sahibzada88/Sahibzada88/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sahibzada Abdullah</h1>
 <h3 align="center">A passionate computer science engineer from Pakistan.</h3>
 
