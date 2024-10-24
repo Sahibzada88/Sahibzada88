@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahibzada Abdullah</h1>
 <h3 align="center">A passionate computer science engineer from Pakistan.</h3>
 
-<img align="right" width=400 alt="coding" src="https://www.google.com/imgres?q=coding%20animated%20gif&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1360%2F1*nWQ_U5NKEfNeGCTfh_2-Mw.gif&imgrefurl=https%3A%2F%2Fomarjarvis.medium.com%2Fwhy-do-i-want-to-become-a-software-engineer-ed189a187a32&docid=b0KEHsLu4gHKsM&tbnid=zhjSEq0Xd_DH7M&vet=12ahUKEwjW7KjY56aJAxWlhf0HHVNqItUQM3oECHIQAA..i&w=680&h=428&hcb=2&ved=2ahUKEwjW7KjY56aJAxWlhf0HHVNqItUQM3oECHIQAA">
+<img align="right" width=400 alt="coding" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahibzada88&label=Profile%20views&color=0e75b6&style=flat" alt="sahibzada88" /> </p>
 
